@@ -1,0 +1,5 @@
+A= dlmread('dog_bw_data.dat');
+imwrite(mat2gray(A), '1.tif');
+
+A= dlmread('dog_bw_data.dat');
+imwrite(mat2gray(A), '1.tif');
